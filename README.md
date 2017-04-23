@@ -4,9 +4,9 @@
 
 
 PageIndicatorStyle
-- support dot style
-- support number style
-- support custom style
+- dot style
+- number style
+- custom style
 
 Dependency pods
 - SnapKit
